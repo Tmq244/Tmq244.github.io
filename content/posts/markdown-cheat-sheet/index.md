@@ -38,10 +38,7 @@ Emphasis, aka italics, with asterisks or underscores. **Strong emphasis**, aka b
 
 ---
 
-{{< img
-  src="cat.jpg"
-  alt="Cat"
-  caption="This is the default position of a figcaption, but it can be centered or at the end." >}}
+![Cat](cat.jpg "This is the default position of a figcaption, but it can be centered or at the end.")
 
 # Lists
 
@@ -65,8 +62,6 @@ Emphasis, aka italics, with asterisks or underscores. **Strong emphasis**, aka b
 - This is another list item
 
 ## Task:
-
-{{< task-list >}}
 
 - [x] Write the press release
 - [ ] Update the website
@@ -138,21 +133,13 @@ int main()
 
 ---
 
-{{< alert info "Optional title" >}}
-This is an info alert.
-{{< /alert >}}
+> **Info:** This is an info alert.
 
-{{< alert warning "Optional title" >}}
-This is a warning alert.
-{{< /alert >}}
+> **Warning:** This is a warning alert.
 
-{{< alert error "Optional title" >}}
-This is an error alert.
-{{< /alert >}}
+> **Error:** This is an error alert.
 
-{{< alert success "Optional title" >}}
-This is a success alert.
-{{< /alert >}}
+> **Success:** This is a success alert.
 
 # Math
 
