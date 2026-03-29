@@ -3,7 +3,7 @@ title: "Hi, I'm Mingqiang Tang"
 draft: false
 ---
 
-I'm a third-year undergraduate student majoring in **Computer Science and Technology** at the [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), Shenzhen, China. My interests lie in programming languages, software testing, and systems software.
+I'm a third-year undergraduate student majoring in **Computer Science and Technology** at the [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), Shenzhen, China. My main interests lie in **multimodal learning**; I also enjoy work related to software engineering.
 
 ---
 
@@ -11,6 +11,18 @@ I'm a third-year undergraduate student majoring in **Computer Science and Techno
 
 **Southern University of Science and Technology (SUSTech)** · 2023 – Expected 2027  
 Bachelor of Engineering in Computer Science and Technology · Shenzhen, China
+
+- GPA: **3.86 / 4.00**, Rank: **16 / 152**
+
+| Course | Score | Grade |
+|---|---|---|
+| Algorithm Design and Analysis | 99 | A+ |
+| Advanced Programming | 99 | A+ |
+| Data Structures and Algorithm Analysis | 95 | A |
+| Discrete Mathematics | 94 | A |
+| Digital Logic | 94 | A |
+| Computer Networks | 93 | A |
+| Software Engineering | 93 | A |
 
 ---
 
@@ -52,6 +64,7 @@ Advised by Prof. YePang Liu, in collaboration with Ant Group · Shenzhen, China
 - **SUSTech Merit Student Scholarship – Second Class** · Nov. 2024
 - **Outstanding Student of Year 2024** · Dec. 2024
 - **SUSTech Merit Student Scholarship – Third Class** · Nov. 2025
+- **Outstanding Student of Year 2025** · Dec. 2025
 
 ---
 
