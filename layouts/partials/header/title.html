@@ -1,3 +1,6 @@
-<a href="{{ .Site.BaseURL }}">
+<a href="{{ .Site.BaseURL }}" class="flex flex-col gap-1">
   <h1 id="site-title">{{ .Site.Title }}</h1>
+  {{ with .Site.Params.chineseName }}
+  <p id="site-title-cn" class="text-center sm:text-left text-xl font-semibold text-gray-600 dark:text-gray-400">{{ . }}</p>
+  {{ end }}
 </a>
