@@ -3,7 +3,7 @@ title: "Hi, I'm Mingqiang Tang"
 draft: false
 ---
 
-I'm an undergraduate student majoring in **Computer Science and Technology** at the [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), Shenzhen, China. My current interests include **multimodal learning**, multi-turn composed image retrieval, automated software testing, and practical software engineering.
+I'm an undergraduate student majoring in **Computer Science and Technology** at the [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), Shenzhen, China. My current research interests are **multimodal learning** and **multimodal large language models**.
 
 [CV](/cv.pdf) · [GitHub](https://github.com/Tmq244) · [Email](mailto:12312417@mail.sustech.edu.cn)
 
