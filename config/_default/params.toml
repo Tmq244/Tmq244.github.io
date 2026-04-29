@@ -2,7 +2,7 @@
 isSinglePage = true
 
 # Meta Config
-description = "CS Student at SUSTech | Research Intern | GPA 3.86/4.00"
+description = "CS Student at SUSTech | Multi-turn CIR | Rust Test Generation"
 
 # Header Configuration
 avatar = "img/profile-picture.jpg"
